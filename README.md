@@ -1,4 +1,4 @@
-# Exercises in C++
+# Exercises in C++ 🗂️
 
 Source code developed for the activities and exercises of the course TC1030.
 
